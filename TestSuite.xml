@@ -1,0 +1,15 @@
+<suite name="Practice Test Suite">
+	<test name="Login Test" thread="5">
+		<classes>
+			<class name="testClasses.TC_001_Practice_RegisterForm"/>
+			<class name="testClasses.TC_002_Practice_Login_Test"/>
+			<class name="testClasses.TC_003_Practice_Checkbox"/>
+			<class name="testClasses.TC_004_Practice_RadioButton"/>
+			<class name="testClasses.TC_005_Practice_AlertHandling"/>
+			<class name="testClasses.TC_006_Practice_ConfirmAlertHandling"/>
+			<class name="testClasses.TC_007_Practice_DelayedAlertHandling"/>
+			<class name="testClasses.TC_008_Practice_PromptAlertHandling"/>
+			<class name="testClasses.TC_009_Practice_HandleModalPopups"/>
+		</classes>
+	</test>
+</suite>
