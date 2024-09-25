@@ -10,6 +10,10 @@
 			<class name="testClasses.TC_007_Practice_DelayedAlertHandling"/>
 			<class name="testClasses.TC_008_Practice_PromptAlertHandling"/>
 			<class name="testClasses.TC_009_Practice_HandleModalPopups"/>
+			<class name="testClasses.TC_010_Practice_Practice_NewTabHandles"/>
+			<class name="testClasses.TC_011_Practice_NewWindowHandles"/>
+			<class name="testClasses.TC_012_Practice_NewWindowMessageHandles"/>
+			
 		</classes>
 	</test>
 </suite>

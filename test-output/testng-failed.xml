@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="testClasses.TC_008_Practice_PromptAlertHandling">
+      <class name="testClasses.TC_012_Practice_NewWindowMessageHandles">
         <methods>
           <include name="setup"/>
-          <include name="TC_005_AlertHAndling"/>
+          <include name="TC_010_TabHandles"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- testClasses.TC_008_Practice_PromptAlertHandling -->
+      </class> <!-- testClasses.TC_012_Practice_NewWindowMessageHandles -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
